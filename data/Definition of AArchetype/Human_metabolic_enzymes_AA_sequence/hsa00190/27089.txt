@@ -1,0 +1,3 @@
+>hsa:27089 K00418 ubiquinol-cytochrome c reductase subunit 8 | (RefSeq) UQCRQ, MC3DN4, QCR8, QP-C, QPC, UQCR7; ubiquinol-cytochrome c reductase complex III subunit VII (A)
+MGREFGNLTRMRHVISYSLSPFEQRAYPHVFTKGIPNVLRRIRESFFRVVPQFVVFYLIY
+TWGTEEFERSKRKNPAAYENDK

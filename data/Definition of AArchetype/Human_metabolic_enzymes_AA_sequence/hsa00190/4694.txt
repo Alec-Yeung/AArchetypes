@@ -1,0 +1,3 @@
+>hsa:4694 K03945 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 1 | (RefSeq) NDUFA1, CI-MWFE, MC1DN12, MWFE, ZNF183; NADH:ubiquinone oxidoreductase subunit A1 (A)
+MWFEILPGLSVMGVCLLIPGLATAYIHRFTNGGKEKRVAHFGYHWSLMERDRRISGVDRY
+YVSKGLENID

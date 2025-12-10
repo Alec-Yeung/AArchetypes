@@ -1,0 +1,3 @@
+>hsa:4696 K03947 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 3 | (RefSeq) NDUFA3, B9, CI-B9; NADH:ubiquinone oxidoreductase subunit A3 (A)
+MAARVGAFLKNAWDKEPVLVVSFVVGGLAVILPPLSPYFKYSVMINKATPYNYPVPVRDD
+GNMPDVPSHPQDPQGPSLEWLKKL

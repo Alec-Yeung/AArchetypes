@@ -1,0 +1,3 @@
+>hsa:440567 K00416 ubiquinol-cytochrome c reductase subunit 6 | (RefSeq) UQCRHL, hCG25371; ubiquinol-cytochrome c reductase hinge protein like (A)
+MGLEDEQKMLTESGDPEEEEEEEEELVDPLTTVREQCEQLEKCVKARERLELYDEHVSSR
+SHTEEDCTEELFDFLHAKDHCVAHKLFNNLK

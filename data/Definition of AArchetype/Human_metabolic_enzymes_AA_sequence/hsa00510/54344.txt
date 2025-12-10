@@ -1,0 +1,3 @@
+>hsa:54344 K09659 dolichol-phosphate mannosyltransferase subunit 3 | (RefSeq) DPM3, CDG1O, MDDGB15, MDDGC15; dolichyl-phosphate mannosyltransferase subunit 3, regulatory (A)
+MTKLAQWLWGLAILGSTWVALTTGALGLELPLSCQEVLWPLPAYLLVSAGCYALGTVGYR
+VATFHDCEDAARELQSQIQEARADLARRGLRF

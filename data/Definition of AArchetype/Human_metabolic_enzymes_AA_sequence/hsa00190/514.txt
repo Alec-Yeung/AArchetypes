@@ -1,0 +1,2 @@
+>hsa:514 K02135 F-type H+-transporting ATPase subunit epsilon | (RefSeq) ATP5F1E, ATP5E, ATPE, MC5DN3; ATP synthase F1 subunit epsilon (A)
+MVAYWRQAGLSYIRYSQICAKAVRDALKTEFKANAEKTSGSNVKIVKVKKE
