@@ -1,0 +1,2 @@
+>ath:ArthCp038 K02708 photosystem II cytochrome b559 subunit beta | (RefSeq) psbF; photosystem II protein VI (A)
+MTIDRTYPIFTVRWLAVHGLAVPTVSFLGSISAMQFIQR

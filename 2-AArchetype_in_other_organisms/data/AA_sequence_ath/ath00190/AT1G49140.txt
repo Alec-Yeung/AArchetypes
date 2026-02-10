@@ -1,0 +1,3 @@
+>ath:AT1G49140 K03966 NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 10 | (RefSeq) NADH dehydrogenase ubiquinone 1 beta subcomplex subunit 10-B-like protein (Complex I subunit NDUFS6) (A)
+MGRKKGLPEFEESAPDGFDPENPYKDPVAMVEMREHIVREKWIHIEKAKILREKVKWCYR
+VEGVNHYQKCRHLVQQYLDATRGVGWGKDHRPISLHGPKPVAVEEAE

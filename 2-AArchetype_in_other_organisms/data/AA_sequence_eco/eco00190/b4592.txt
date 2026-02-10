@@ -1,0 +1,2 @@
+>eco:b4592 K22501 cytochrome bd-II ubiquinol oxidase subunit AppX [EC:7.1.1.7] | (RefSeq) appX; small protein AppX (A)
+MWYLLWFVGILLMCSLSTLVLVWLDPRLKS

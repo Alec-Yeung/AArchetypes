@@ -1,0 +1,3 @@
+>mmu:102633050 K00419 ubiquinol-cytochrome c reductase subunit 9 | (RefSeq) Gm6293, EG622178; predicted pseudogene 6293 (A)
+MSLPTIPSRLYSLLFRRTSTFALTIAVGALFFERALDQGADAIYEHINEGKLWKHIKFLY
+ENKE

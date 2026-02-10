@@ -1,0 +1,3 @@
+>cel:CELE_F29C4.2 K02268 cytochrome c oxidase subunit 6c | (RefSeq) cox-6C; Mitochondrial cytochrome c oxidase subunit VIc/VIIs domain-containing protein (A)
+MVAASATRNMLHQYGRRAIGISLIASVGATAAFFFGYVQPRHEKYERFFANYDPYTRMKE
+ICAANKGYMHTCPQELAKLYEEKGKTVADL

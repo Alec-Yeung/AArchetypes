@@ -1,0 +1,2 @@
+>ath:ArthCp037 K02713 photosystem II PsbL protein | (RefSeq) psbL; photosystem II protein L (A)
+MTQSNPNEQSVELNRTSLYWGLLLIFVLAVLFSNYFFN

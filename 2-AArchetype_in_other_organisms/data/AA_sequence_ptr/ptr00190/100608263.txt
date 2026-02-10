@@ -1,0 +1,3 @@
+>ptr:100608263 K03945 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 1 | (RefSeq) NDUFA1; NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 (A)
+MWFEILPGLSVMGVCLLIPGLATAYIHRFTNGGKEKRVAHFGYHWNLMERDRRISGVDRY
+YVSKGLENID

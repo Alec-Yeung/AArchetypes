@@ -1,0 +1,3 @@
+>sce:YGR183C K00419 ubiquinol-cytochrome c reductase subunit 9 | (RefSeq) QCR9, UCR9; ubiquinol--cytochrome-c reductase subunit 9 (A)
+MSFSSLYKTFFKRNAVFVGTIFAGAFVFQTVFDTAITSWYENHNKGKLWKDVKARIAAGD
+GDDDDE

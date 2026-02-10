@@ -1,0 +1,3 @@
+>mmu:13135 K12668 dolichyl-diphosphooligosaccharide---protein glycosyltransferase subunit DAD1/OST2 | (RefSeq) Dad1; defender against cell death 1 (A)
+MSASVVSVISRFLEEYLSSTPQRLKLLDAYLLYILLTGALQFGYCLLVGTFPFNSFLSGF
+ISCVGSFILAVCLRIQINPQNKADFQGISPERAFADFLFASTILHLVVMNFVG

@@ -1,0 +1,3 @@
+>ptr:129141855 K11001 phosphatidylinositol N-acetylglucosaminyltransferase subunit Y | (RefSeq) phosphatidylinositol N-acetylglucosaminyltransferase subunit Y-like (A)
+MFLSLSTLTVLIPLVSLAGLFHSASVEENFPQGGTCTASLCFYSLLLPITIPVYVFFHLW
+TWMVIKLFMHN

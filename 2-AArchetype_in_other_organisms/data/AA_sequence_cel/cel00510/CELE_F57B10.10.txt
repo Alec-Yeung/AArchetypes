@@ -1,0 +1,3 @@
+>cel:CELE_F57B10.10 K12668 dolichyl-diphosphooligosaccharide---protein glycosyltransferase subunit DAD1/OST2 | (RefSeq) dad-1; Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit dad-1 (A)
+MAAQVVPVLSKLFDDYQKTTSSKLKIIDAYMTYILFTGIFQFIYCLLVGTFPFNSFLSGF
+ISTVTSFVLASCLRMQVNQENRSEFTAVSTERAFADFIFANLILHLVVVNFLG

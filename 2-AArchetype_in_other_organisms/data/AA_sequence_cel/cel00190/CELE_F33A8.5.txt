@@ -1,0 +1,4 @@
+>cel:CELE_F33A8.5 K00237 succinate dehydrogenase (ubiquinone) membrane anchor subunit | (RefSeq) sdhd-1; Putative succinate dehydrogenase [ubiquinone] cytochrome b small subunit, mitochondrial (A)
+MAASLRHMAHFQKALLVARSAPRISTIVRATSTLNDGASKVPDHSMHFKLERLWAVGMLP
+ILPASYFIHGPVMDAVLTVALTLHIHWGIHGVVYDYARPYVIGEAAAKAAHVGVYLITGL
+LLGALLHFNTNDVGITKAFELVFSL

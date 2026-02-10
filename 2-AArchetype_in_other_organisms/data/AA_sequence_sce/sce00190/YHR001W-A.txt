@@ -1,0 +1,3 @@
+>sce:YHR001W-A K00420 ubiquinol-cytochrome c reductase subunit 10 | (RefSeq) QCR10; ubiquinol--cytochrome-c reductase subunit 10 (A)
+MAYTSHLSSKTGLHFGRLSLRSLTAYAPNLMLWGGASMLGLFVFTEGWPKFQDTLYKKIP
+LLGPTLEDHTPPEDKPN

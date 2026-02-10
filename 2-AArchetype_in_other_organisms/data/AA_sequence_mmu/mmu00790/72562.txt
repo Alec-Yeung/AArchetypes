@@ -1,0 +1,4 @@
+>mmu:72562 K01724 4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96] | (RefSeq) Pcbd2, 2700061N24Rik, Dcoh2, Dcohm; pterin 4 alpha carbinolamine dehydratase/dimerization cofactor of hepatocyte nuclear factor 1 alpha (TCF1) 2 (A)
+MVAAAAVAVAAVGARSAGRWLAALRSPGASRAAMSSDAQWLTAEERDQLIPGLKAAGWSE
+LSERDAIYKEFSFKNFNQAFGFMSRVALQAEKMNHHPEWFNVYNKVQITLTSHDCGGLTK
+RDVKLAQFIEKAAASL

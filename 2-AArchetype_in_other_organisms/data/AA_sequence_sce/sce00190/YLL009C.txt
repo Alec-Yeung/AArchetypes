@@ -1,0 +1,3 @@
+>sce:YLL009C K02260 cytochrome c oxidase assembly protein subunit 17 | (RefSeq) COX17; copper metallochaperone COX17 (A)
+MTETDKKQEQENHAECEDKPKPCCVCKPEKEERDTCILFNGQDSEKCKEFIEKYKECMKG
+YGFEVPSAN

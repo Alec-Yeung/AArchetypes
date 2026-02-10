@@ -1,0 +1,2 @@
+>ath:ArthCp042 K02697 photosystem I subunit IX | (RefSeq) psaJ; photosystem I subunit IX (A)
+MRDLKTYLSVAPVLSTLWFGSLAGLLIEINRLFPDALTFPFFSF

@@ -1,0 +1,3 @@
+>dme:Dmel_CG43206 K00420 ubiquinol-cytochrome c reductase subunit 10 | (RefSeq) UQCR-6.4L; Ubiquinol-cytochrome c reductase 6.4 kDa subunit-like (A)
+MSLKKKVCGLWCRHKPSKNQKALAVAFAPSAATFGMAAALAVVYYTDWKVIAGWIPLYNT
+KFPKPEDPKKKK

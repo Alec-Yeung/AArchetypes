@@ -1,0 +1,3 @@
+>mmu:11958 K02129 F-type H+-transporting ATPase subunit e | (RefSeq) Atp5me, 2610008D24Rik, Atp5i, Atp5k, Lfm1; ATP synthase membrane subunit e (A)
+MVPPVQVSPLIKFGRYSALIIGMAYGAKRYSYLKPRAEEERRIAAEEKKRLDELKRIERE
+LAEAQDDSILK

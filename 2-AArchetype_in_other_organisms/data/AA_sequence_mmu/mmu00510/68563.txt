@@ -1,0 +1,3 @@
+>mmu:68563 K09659 dolichol-phosphate mannosyltransferase subunit 3 | (RefSeq) Dpm3, 1110001H19Rik; dolichyl-phosphate mannosyltransferase polypeptide 3 (A)
+MTKLTQWLWGLALLGSAWAALTMGALGLELPFPCREVLWPLPAYLLVSAGCYALGTVGYR
+VATFHDCEDAARELQSQIVEARADLARRGLRF

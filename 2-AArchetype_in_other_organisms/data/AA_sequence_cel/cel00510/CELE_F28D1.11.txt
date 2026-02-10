@@ -1,0 +1,3 @@
+>cel:CELE_F28D1.11 K09659 dolichol-phosphate mannosyltransferase subunit 3 | (RefSeq) dpm-3; putative dolichol-phosphate mannosyltransferase subunit 3 (A)
+MVSQLVTYSAHVILFVLVWLLAYTDVVPVLSYLPECLHCLVNYAPFFAVLFLGIYAVFNV
+VYGVATFNDCAEAKVELLGEIKEAREELKRKRIID

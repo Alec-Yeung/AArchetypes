@@ -1,0 +1,3 @@
+>dme:Dmel_CG32230 K03948 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 4 | (RefSeq) ND-MLRQ; NADH dehydrogenase (ubiquinone) MLRQ subunit, isoform C (A)
+MQGLGLQSLKKNPALIPLYVCVGAGAIGAVYYMARLATRNPDVTWNRTSNPEPWQEYKEK
+QYKFYSPVRDYSKTKSAAPNFDE

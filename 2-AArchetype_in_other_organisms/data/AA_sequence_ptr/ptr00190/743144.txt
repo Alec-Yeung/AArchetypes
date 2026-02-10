@@ -1,0 +1,2 @@
+>ptr:743144 K00420 ubiquinol-cytochrome c reductase subunit 10 | (RefSeq) UQCR11; cytochrome b-c1 complex subunit 10 (A)
+MVTRFLGPRYRELVKNWVPTAYTWGAVGAVGLVWATDWRLILDWVPYINGKFKKDN

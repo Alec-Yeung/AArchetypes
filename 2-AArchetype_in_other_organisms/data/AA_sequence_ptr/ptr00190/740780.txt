@@ -1,0 +1,3 @@
+>ptr:740780 K02272 cytochrome c oxidase subunit 7c | (RefSeq) cytochrome c oxidase subunit 7C, mitochondrial (A)
+MLGQSIRRFTTSVVRRSHYEEGPGKNLPFSVENKWSLLAKMCLYFGSAFATPFLVVRHQL
+LKT

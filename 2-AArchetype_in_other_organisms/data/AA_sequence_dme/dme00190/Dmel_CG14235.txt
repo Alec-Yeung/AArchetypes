@@ -1,0 +1,3 @@
+>dme:Dmel_CG14235 K02267 cytochrome c oxidase subunit 6b | (RefSeq) COX6B; cytochrome c oxidase subunit 6B, isoform D (A)
+MSAYKLETAPFDPRFPNQNVTRYCYQSYIDFHRCQKKRGEDFAPCNYFQKVYKSMCPNAW
+VEKWDDQRESGTFPGRI

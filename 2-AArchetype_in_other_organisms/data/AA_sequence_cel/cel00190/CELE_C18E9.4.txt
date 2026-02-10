@@ -1,0 +1,3 @@
+>cel:CELE_C18E9.4 K03959 NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 3 | (RefSeq) ndub-3; NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 3 (A)
+MGGGHHEPFKIPNYSIYSNFRDFPQLAQHEKRLAQIGLKDPWIRNYVYLYDRKYPHVVGQ
+WAHFKKLILPGWKAGVAFTAALIFVEEAYQYKTHGTTSWDGHH

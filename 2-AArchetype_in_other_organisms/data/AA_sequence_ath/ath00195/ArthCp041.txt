@@ -1,0 +1,2 @@
+>ath:ArthCp041 K02640 cytochrome b6-f complex subunit 5 | (RefSeq) petG; cytochrome b6/f complex subunit V (A)
+MIEVFLFGIVLGLIPITLAGLFVTAYLQYRRGDQLDF

@@ -1,0 +1,3 @@
+>cel:CELE_T07C4.7 K00236 succinate dehydrogenase (ubiquinone) cytochrome b560 subunit | (RefSeq) mev-1; Succinate dehydrogenase cytochrome b560 subunit, mitochondrial (A)
+MLSGFHRISGCVMAGTLLVGGIGFAVLPFDFTAFVDFIRSWNLPCAVTAVFKYIIAFPII
+FHTLNGIRFLGFDLAKGVNNVGQIYKSGYLVSGLSAILALAIVFNSCQNKSNKTA

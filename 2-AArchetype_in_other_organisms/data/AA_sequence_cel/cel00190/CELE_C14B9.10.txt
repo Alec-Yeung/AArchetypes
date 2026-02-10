@@ -1,0 +1,2 @@
+>cel:CELE_C14B9.10 K00419 ubiquinol-cytochrome c reductase subunit 9 | (RefSeq) C14B9.10; Complex III subunit 9 (A)
+MSLGTIVYNTVSRRFSTILLASAFGAYTFNYTLEGLTNFYWDTKNSNKQWKDIKQQLAQE

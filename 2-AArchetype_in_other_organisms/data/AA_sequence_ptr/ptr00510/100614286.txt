@@ -1,0 +1,3 @@
+>ptr:100614286 K09658 dolichol phosphate-mannose biosynthesis regulatory protein | (RefSeq) DPM2; dolichol phosphate-mannose biosynthesis regulatory protein (A)
+MATGTDQVVGLGLVAVSLIIFTYYTAWVILLPFIDSQHVIHKYFLPRAYAVAIPLAAGLL
+LLLFVGLFISYVMLKSKRVTKKAQ

@@ -1,0 +1,3 @@
+>ath:ArthCp019 K02724 photosystem II PsbZ protein | (RefSeq) psbZ; photosystem II protein Z (A)
+MTIAFQLAVFALIITSSILLISVPVVFASPDGWSSNKNVVFSGTSLWIGLVFLVGILNSL
+IS

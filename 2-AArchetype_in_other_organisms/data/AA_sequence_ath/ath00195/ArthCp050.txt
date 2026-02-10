@@ -1,0 +1,2 @@
+>ath:ArthCp050 K02718 photosystem II PsbT protein | (RefSeq) psbT; photosystem II protein T (A)
+MEALVYTFLLVSTLGIIFFAIFFREPPKISTKK

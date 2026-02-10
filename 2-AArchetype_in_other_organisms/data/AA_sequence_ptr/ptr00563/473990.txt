@@ -1,0 +1,4 @@
+>ptr:473990 K03861 phosphatidylinositol N-acetylglucosaminyltransferase subunit P | (RefSeq) PIGP; phosphatidylinositol N-acetylglucosaminyltransferase subunit P (A)
+MVENSPSPLPERAIYGFVLFLSSQFGFILYLVWAFIPESWLNSLGLTYWPQKYWAVALPV
+YLLIAIVIGYVLLFGINMMSTSPLDSIHTITDNYAKNQQQKKYQEEAIPALRDISISEVN
+QMFFLAAKELYTKN

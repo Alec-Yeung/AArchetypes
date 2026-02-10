@@ -1,0 +1,3 @@
+>cel:CELE_Y63D3A.7 K03946 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 2 | (RefSeq) ndua-2; NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 2 (A)
+MSVRLAGTALREIRIHVCQKSPASAGVRAFIENDYVGIKKANPQFPILIREASGIVPRVF
+ARYEHGVERVATLEDLSRENVKSTITQLASQK

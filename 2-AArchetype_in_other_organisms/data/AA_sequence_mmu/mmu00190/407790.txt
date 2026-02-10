@@ -1,0 +1,3 @@
+>mmu:407790 K03948 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 4 | (RefSeq) Ndufa4l2; Ndufa4, mitochondrial complex associated like 2 (A)
+MAGTSLGTRFYRQIKRHPGLIPMIGFICLGMGSAGLYLLRLALRSPDVCWDRKNNPEPWN
+RLSPNDQYKFLAVSTDYKKLKKDRPDF

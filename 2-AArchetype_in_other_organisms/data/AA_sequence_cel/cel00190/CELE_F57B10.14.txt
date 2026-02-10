@@ -1,0 +1,2 @@
+>cel:CELE_F57B10.14 K00420 ubiquinol-cytochrome c reductase subunit 10 | (RefSeq) ucr-11; Cytochrome b-c1 complex subunit 10 (A)
+MLYMKPARFVKNAFTNPNYFKSYGAYGGSAFLLAIYFCEWKTVGQYIPLWNKRYVE

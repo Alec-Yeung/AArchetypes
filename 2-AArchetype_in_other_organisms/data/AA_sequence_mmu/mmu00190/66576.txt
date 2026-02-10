@@ -1,0 +1,3 @@
+>mmu:66576 K00416 ubiquinol-cytochrome c reductase subunit 6 | (RefSeq) Uqcrh, 2210416J04Rik, 2310021J10Rik, 2610041P16Rik; ubiquinol-cytochrome c reductase hinge protein (A)
+MGLEDERKMLTGSGDPKEEEEEELVDPLTTVREHCEQLEKCVKARERLELCDNRVSSRSQ
+TEEDCTEELFDFLHARDHCVAHKLFKNLK

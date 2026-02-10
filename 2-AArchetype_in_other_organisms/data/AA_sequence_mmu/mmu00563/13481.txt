@@ -1,0 +1,3 @@
+>mmu:13481 K09658 dolichol phosphate-mannose biosynthesis regulatory protein | (RefSeq) Dpm2; dolichyl-phosphate mannosyltransferase subunit 2, regulatory (A)
+MATGTDQAVGFGLVAVSLIIFTYYTTWVILLPFIDSQHVIHKYFLPRAYAVLLPLAAGLL
+LLLFVGLFITYVMLKSQKITKKAQ

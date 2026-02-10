@@ -1,0 +1,2 @@
+>ath:ArthCp036 K02711 photosystem II PsbJ protein | (RefSeq) psbJ; photosystem II protein J (A)
+MADTTGRIPLWVIGTVAGILVIGLIGIFFYGSYSGLGSSL

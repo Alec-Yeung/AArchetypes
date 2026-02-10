@@ -1,0 +1,3 @@
+>dme:Dmel_CG9032 K02135 F-type H+-transporting ATPase subunit epsilon | (RefSeq) sun; stunted, isoform A (A)
+MTAWRAAGITYIQYSNIAARILRESLKTGLRADAAKRDASHVKFTPWANGKPAQRQTQSE
+S

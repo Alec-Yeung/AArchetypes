@@ -1,0 +1,3 @@
+>ptr:461370 K11001 phosphatidylinositol N-acetylglucosaminyltransferase subunit Y | (RefSeq) PIGY; phosphatidylinositol N-acetylglucosaminyltransferase subunit Y (A)
+MFLSLPTLTVLIPLVSLAGLFYSASVEENFPQGCTSTASLCFYSLLLPITIPVYVFFHLW
+TWMGIKLFRHN

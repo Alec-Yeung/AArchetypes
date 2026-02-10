@@ -1,0 +1,2 @@
+>ptr:735962 K02135 F-type H+-transporting ATPase subunit epsilon | (RefSeq) ATP synthase subunit epsilon-like protein, mitochondrial (A)
+MVAYWRQAGLSYIRYSQICAKVVRDALKTEFKANAKKTSGSSVKIVKVKKE

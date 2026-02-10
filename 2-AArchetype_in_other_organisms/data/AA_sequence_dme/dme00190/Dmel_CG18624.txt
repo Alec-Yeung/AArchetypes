@@ -1,0 +1,2 @@
+>dme:Dmel_CG18624 K03957 NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 1 | (RefSeq) ND-MNLL; NADH dehydrogenase (ubiquinone) MNLL subunit, isoform C (A)
+MVLGLDKRALWGALPLLGFAIGHFLDKKETERMTMFRDKSALYGRPAGSEGKAPSW

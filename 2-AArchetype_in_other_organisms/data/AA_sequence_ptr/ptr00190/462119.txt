@@ -1,0 +1,3 @@
+>ptr:462119 K03946 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 2 | (RefSeq) NDUFA2; NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 2 isoform X3 (A)
+MTAAAASRGIGAKLGLREIRIHLCQRSPGSQGVRDFIEKRYVELKKANPDLPILIRECSD
+VQPKLWARYASTVQNS

@@ -1,0 +1,3 @@
+>ptr:739452 K02272 cytochrome c oxidase subunit 7c | (RefSeq) COX7C; cytochrome c oxidase subunit 7C, mitochondrial precursor (A)
+MLGQSIRRFTTSVVRRSHYEEGPGKNLPFSVENKWSLLAKMCLYFGSAFATPFLVVRHQL
+LKT

@@ -1,0 +1,3 @@
+>ptr:107968313 K03959 NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 3 | (RefSeq) NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 3-like (A)
+MAHEHGRSKMELPNYKQWKIEGTPLETVKKKLAAQGLRDPWGQGEAWRYMGGFANSGSFI
+GALLKGFKWGFAAFVGAVGAEYYLESLNKDKKHH

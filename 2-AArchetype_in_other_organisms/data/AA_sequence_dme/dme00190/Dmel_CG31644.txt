@@ -1,0 +1,3 @@
+>dme:Dmel_CG31644 K02268 cytochrome c oxidase subunit 6c | (RefSeq) COX6CL; cytochrome c oxidase subunit 6C-like, isoform B (A)
+MPEEKFPMHDLHLKQTFRNVKMACTLALLAPLLFYTLHNNPRKRKYRNFYSTYDPMDAFD
+RMMSGGYLSSCPPGSGPKKDDKKKK

@@ -1,0 +1,2 @@
+>sce:YMR256C K02269 cytochrome c oxidase subunit 7 | (RefSeq) COX7; cytochrome c oxidase subunit VII (A)
+MANKVIQLQKIFQSSTKPLWWRHPRSALYLYPFYAIFAVAVVTPLLYIPNAIRGIKAKKA

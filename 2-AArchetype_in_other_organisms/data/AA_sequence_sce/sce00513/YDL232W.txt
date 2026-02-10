@@ -1,0 +1,2 @@
+>sce:YDL232W K00730 dolichyl-diphosphooligosaccharide---protein glycosyltransferase subunit 4 | (RefSeq) OST4; olichyl-diphosphooligosaccharide--protein glycotransferase OST4 (A)
+MISDEQLNSLAITFGIVMMTLIVIYHAVDSTMSPKN

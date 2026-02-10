@@ -1,0 +1,2 @@
+>sce:YDL067C K02269 cytochrome c oxidase subunit 7 | (RefSeq) COX9; cytochrome c oxidase subunit VIIa (A)
+MTIAPITGTIKRRVIMDIVLGFSLGGVMASYWWWGFHMDKINKREKFYAELAERKKQEN

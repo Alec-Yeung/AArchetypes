@@ -1,0 +1,3 @@
+>ptr:463780 K03958 NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 2 | (RefSeq) NDUFB2; NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 2, mitochondrial precursor (A)
+MSDLTRLASFARVGGRLFRSGRARTAGDGGVRHAGGGVHIEPRYRQFPQLTRSQVFQSEF
+FSGLMWFWILWRFWHDSEEVLGHFPYPDPSQWTDEELGIPPDDED

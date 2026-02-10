@@ -1,0 +1,3 @@
+>dme:Dmel_CG33977 K09659 dolichol-phosphate mannosyltransferase subunit 3 | (RefSeq) Dpm3; Dolichyl-phosphate mannosyltransferase subunit 3 (A)
+MTNLQRWLFYASLFAIPYLSVVLGTVQTPLTTKYFLHIQLLPLLLLVIFGIYSVWTVLYR
+TLTFNDCPEAAKELQDEIQEARKDLIAKGFRFRD

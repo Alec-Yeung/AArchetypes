@@ -1,0 +1,3 @@
+>dme:Dmel_CG40002 K03958 NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 2 | (RefSeq) ND-AGGG; NADH dehydrogenase (ubiquinone) AGGG subunit, isoform A (A)
+MSFALRLGSSIGCFHRTILGRDIIQRKSHVVSYRNGPPPHSKATKIGALTVGGAMWWWVI
+WHLWHEPDHITGEFDYPNSRKWSNTELGVPKDGF

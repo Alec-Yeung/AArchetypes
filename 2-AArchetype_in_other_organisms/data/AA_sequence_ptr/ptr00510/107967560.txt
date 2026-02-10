@@ -1,0 +1,3 @@
+>ptr:107967560 K12668 dolichyl-diphosphooligosaccharide---protein glycosyltransferase subunit DAD1/OST2 | (RefSeq) dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit DAD1-like (A)
+MDIQCGCWVLYEPREHWPVTLHPFMSALVVSGTRWFLEEYLSSTLQCLKLLDIYLLYKLL
+TRALQFTYCLLMGTFPFNTFLLGFTSWVGSFILVVCLRIQVNPQNEVDFEGISLE

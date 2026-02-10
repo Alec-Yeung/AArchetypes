@@ -1,0 +1,3 @@
+>ptr:461494 K03967 NADH dehydrogenase (ubiquinone) 1 subunit C1 | (RefSeq) NDUFC1; NADH dehydrogenase [ubiquinone] 1 subunit C1, mitochondrial (A)
+MAPSALLRPLSRLLAPARLPSGPSVRSKFYVREPPNAKPDWLKVGFTLGTTVFLWIYLIK
+QHNEDILEYKRRNGLE

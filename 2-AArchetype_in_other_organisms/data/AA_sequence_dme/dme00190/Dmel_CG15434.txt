@@ -1,0 +1,3 @@
+>dme:Dmel_CG15434 K03946 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 2 | (RefSeq) ND-B8; NADH dehydrogenase (ubiquinone) B8 subunit (A)
+MGITLFRLASFTPKLKELRIILDPKGDTSKGVREYVERFYPNLKKSNPDLPILVRECSGV
+QPRLYARYGNGKEVSLSLANHAAPDIHKNLEAVGK

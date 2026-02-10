@@ -1,0 +1,2 @@
+>ath:ArthCp015 K03689 cytochrome b6-f complex subunit 8 | (RefSeq) petN; cytochrome b6/f complex subunit VIII (A)
+MDIVSLAWAALMVVFTFSLSLVVWGRSGL

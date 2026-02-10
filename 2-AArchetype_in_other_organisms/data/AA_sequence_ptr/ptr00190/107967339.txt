@@ -1,0 +1,3 @@
+>ptr:107967339 K03948 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 4 | (RefSeq) cytochrome c oxidase subunit NDUFA4 (A)
+MPHQTLSQTKKNPSLISCFIFIGAGSTGAAWYVLCLASFSPDVSWARNNNPEPWNKLSPN
+DQYKSYSVNVDYSKLKKEGPDF

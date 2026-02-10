@@ -1,0 +1,4 @@
+>sce:YOR103C K12668 dolichyl-diphosphooligosaccharide---protein glycosyltransferase subunit DAD1/OST2 | (RefSeq) OST2; dolichyl-diphosphooligosaccharide-protein glycotransferase (A)
+MAKAPKANTPKVTSTSSAVLTDFQETFKTSKRAYFAQIEKYPKLKLIDTFCFFLVLLGVI
+QCTFIILIRDNFPFNAFLAGFIICVGQFVLLMSLRLQLCNSFPGISKNRAFAEFIVASLI
+LHFVCLHFIN

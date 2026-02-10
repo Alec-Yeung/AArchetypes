@@ -1,0 +1,2 @@
+>ath:ArthCp006 K02710 photosystem II PsbI protein | (RefSeq) psbI; photosystem II protein I (A)
+MLTLKLFVYTVVIFFVSLFIFGFLSNDPGRNPGREE

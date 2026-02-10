@@ -1,0 +1,3 @@
+>mmu:66268 K11001 phosphatidylinositol N-acetylglucosaminyltransferase subunit Y | (RefSeq) Pigyl, 1810008A14Rik, PIG-Y, Pigy; phosphatidylinositol glycan anchor biosynthesis, class Y-like (A)
+MIRSLPTMTVLIPLVSLAGLLYSASVEEGFPEGCTSASSLCFYSLLLPVTVPVYVFFHLW
+TWMGLKLFRHN

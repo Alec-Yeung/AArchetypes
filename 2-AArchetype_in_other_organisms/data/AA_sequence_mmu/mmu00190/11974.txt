@@ -1,0 +1,3 @@
+>mmu:11974 K02153 V-type H+-transporting ATPase subunit e | (RefSeq) Atp6v0e, Atp6k, Atp6v0e1, M9.2; ATPase, H+ transporting, lysosomal V0 subunit E (A)
+MAYHGLTVPLIVMSVFWGFVGLLVPWFIPKGPNRGVIITMLVTCSVCCYLFWLIAILAQL
+NPLFGPQLKNETIWYLKYHWP

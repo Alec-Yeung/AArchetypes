@@ -1,0 +1,2 @@
+>ptr:100613526 K02135 F-type H+-transporting ATPase subunit epsilon | (RefSeq) ATP5F1E; ATP synthase subunit epsilon, mitochondrial (A)
+MVAYWRQAGLSYIRYSQICAKAVRDALKTEFKANAEKTSGSSVKIVKVKKE

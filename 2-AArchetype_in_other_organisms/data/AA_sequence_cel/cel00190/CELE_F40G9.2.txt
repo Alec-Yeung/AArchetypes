@@ -1,0 +1,3 @@
+>cel:CELE_F40G9.2 K02260 cytochrome c oxidase assembly protein subunit 17 | (RefSeq) cox-17; Cytochrome c oxidase copper chaperone (A)
+MPAEPQKSTEAGSVAPEKKLKACCACPETKRVRDACIIENGEEKCGKLIEAHKACMRAAG
+FNI

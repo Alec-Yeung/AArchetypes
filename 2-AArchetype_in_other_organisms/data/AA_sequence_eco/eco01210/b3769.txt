@@ -1,0 +1,3 @@
+>eco:b3769 K11258 acetolactate synthase II small subunit [EC:2.2.1.6] | (RefSeq) ilvM; acetolactate synthase II subunit IlvM (A)
+MMQHQVNVSARFNPETLERVLRVVRHRGFHVCSMNMAAASDAQNINIELTVASPRSVDLL
+FSQLNKLVDVAHVAICQSTTTSQQIRA

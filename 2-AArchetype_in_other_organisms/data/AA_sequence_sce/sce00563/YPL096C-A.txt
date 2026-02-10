@@ -1,0 +1,3 @@
+>sce:YPL096C-A K11002 phosphatidylinositol N-acetylglucosaminyltransferase ERI1 subunit | (RefSeq) ERI1, RIN1; Eri1p (A)
+MRPRDQGFLVLGFTYSVLLISLATFYWLRNNDSFLHYWCVLLLCPATLWLWALIAWCDSE
+MFASSKDE

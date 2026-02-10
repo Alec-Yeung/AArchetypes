@@ -1,0 +1,4 @@
+>ptr:738319 K13758 retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit delta | (RefSeq) PDE6D; retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit delta isoform X1 (A)
+MSAKDERAREILRGFKLNWMNLRDAETGKILWQGTEDLSVPGVEHEARVPKKILKCKAVS
+RELNFSSTEQMEKFRLEQKVYFKGQCLEEWFFEFGFVIPNSTNTWQSLIEAAPESQMMPA
+SVLTGNVIIETKFFDDDLLVSTSRVRLFYV

@@ -1,0 +1,3 @@
+>ath:AT1G48140 K09659 dolichol-phosphate mannosyltransferase subunit 3 | (RefSeq) DPMS3; dolichol-phosphate mannosyltransferase-like protein (A)
+MKHIVKILSLLVAISAFWIGLLQAAIIPRSHTWLLPIYFVVSLGCYGLLMVGVGLMQFPT
+CPQEAVLLQKDIAEAKDFFKHKGVDVGSN

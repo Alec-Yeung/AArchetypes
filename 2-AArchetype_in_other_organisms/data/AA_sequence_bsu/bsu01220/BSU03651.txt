@@ -1,0 +1,3 @@
+>bsu:BSU03651 K21759 vanillate/4-hydroxybenzoate decarboxylase subunit D [EC:4.1.1.- 4.1.1.61] | (RefSeq) bsdD; phenolic acid decarboxylase subunit D (A)
+MHTCPRCDSKKGEVMSKSPVEGAWEVYQCQTCFFTWRSCEPESITNPEKYNPAFKIDPKE
+TETAIEVPAVPERKA

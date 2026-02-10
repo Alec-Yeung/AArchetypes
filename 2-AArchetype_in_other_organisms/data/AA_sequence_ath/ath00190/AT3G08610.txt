@@ -1,0 +1,3 @@
+>ath:AT3G08610 K03945 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 1 | (RefSeq) NADH dehydrogenase ubiquinone 1 alpha subcomplex subunit (A)
+MSLVWLEAMLPLGIIGGMLCIMGNSQYYIHKAYHGRPKHIGHDEWDVAMERRDKKVVEKA
+AAPSS

@@ -1,0 +1,3 @@
+>dme:Dmel_CG30354 K00416 ubiquinol-cytochrome c reductase subunit 6 | (RefSeq) UQCR-11L; Ubiquinol-cytochrome c reductase 11 kDa subunit-like, isoform B (A)
+MAFNSRVLVPVLKADDDEKELVDPQAALREKCQAKGHIASLYNKYQECNDRVNGKSKTTE
+TCMEELFDFVAELDHCVAHSLFSKLK

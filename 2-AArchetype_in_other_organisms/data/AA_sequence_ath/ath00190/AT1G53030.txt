@@ -1,0 +1,3 @@
+>ath:AT1G53030 K02260 cytochrome c oxidase assembly protein subunit 17 | (RefSeq) Cytochrome C oxidase copper chaperone (COX17) (A)
+MSGLQAQDSACSLDKPSKDVVATETKPKKRICCACPDTKKLRDECIVEHGESACTKWIEA
+HILCLRSEGFKV

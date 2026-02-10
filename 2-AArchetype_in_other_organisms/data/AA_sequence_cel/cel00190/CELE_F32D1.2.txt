@@ -1,0 +1,2 @@
+>cel:CELE_F32D1.2 K02135 F-type H+-transporting ATPase subunit epsilon | (RefSeq) hpo-18; ATP synthase subunit epsilon, mitochondrial (A)
+MVAWRAAGLNYVRYSQIAAEITRKCTKQVGGKAAVKKPEATLKITTWENGKQQK

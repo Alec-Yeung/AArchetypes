@@ -1,0 +1,3 @@
+>mmu:12864 K02268 cytochrome c oxidase subunit 6c | (RefSeq) Cox6c; cytochrome c oxidase subunit 6C (A)
+MSSGALLPKPQMRGLLAKRLRVHIAGAFIVALGVAAAYKFGVAEPRKKAYAEFYRNYDSM
+KDFEEMRKAGIFQSAK

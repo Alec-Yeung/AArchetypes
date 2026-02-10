@@ -1,0 +1,3 @@
+>mmu:78600 K13760 retinal cone rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma | (RefSeq) Pde6h, A930033D18Rik, PDEgamma; phosphodiesterase 6H, cGMP-specific, cone, gamma (A)
+MSDSPSLSPPAPSQGPTTPRKGPPKFKQRQTRQFKSKPPKKGVKGFGDDIPGMEGLGTDI
+TVICPWEAFSHLELHELAQFGII

@@ -1,0 +1,4 @@
+>mmu:56176 K03861 phosphatidylinositol N-acetylglucosaminyltransferase subunit P | (RefSeq) Pigp, Dcrc, Dscr5; phosphatidylinositol glycan anchor biosynthesis, class P (A)
+MVENSPSPLPERAIYGFVLFLSSQFGFILYLVWAFVPESWLNSLGLTYWPQKYWAVALPV
+YLLITVVIGYVLLFGINMMSTSPLDSIHTITDNYAKNQQRKNYQEDAIPALRDVPISEVN
+KMFFLGAKELNT

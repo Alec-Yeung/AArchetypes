@@ -1,0 +1,3 @@
+>ath:AT5G57815 K02267 cytochrome c oxidase subunit 6b | (RefSeq) Cytochrome c oxidase, subunit Vib family protein (A)
+MEDEIELKTAPADFRFPTTNQTRHCFTRYIEFHRCTTAKGEESNDCERFAKYYRALCPGE
+WVDKWNEQRESGTFPGPL

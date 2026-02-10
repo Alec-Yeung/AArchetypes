@@ -1,0 +1,3 @@
+>bsu:BSU38520 K14188 D-alanine--poly(phosphoribitol) ligase subunit 2 [EC:6.1.1.13] | (RefSeq) dltC; D-alanine--poly(phosphoribitol) ligase subunit 2 (A)
+MDFKQEVLDVLAEVCQDDIVKENPDIEIFEEGLLDSFGTVELLLAIENRFDILVPITEFD
+RDVWNTPNNIVNQLSELK

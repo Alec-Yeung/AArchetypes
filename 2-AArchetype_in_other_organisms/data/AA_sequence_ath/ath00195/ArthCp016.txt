@@ -1,0 +1,2 @@
+>ath:ArthCp016 K02714 photosystem II PsbM protein | (RefSeq) psbM; photosystem II protein M (A)
+MEVNILAFIATALFILVPTAFLLIIYVKTVSQND

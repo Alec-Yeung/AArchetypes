@@ -1,0 +1,3 @@
+>eco:b0722 K00242 succinate dehydrogenase membrane anchor subunit | (RefSeq) sdhD; succinate:quinone oxidoreductase, membrane protein SdhD (A)
+MVSNASALGRNGVHDFILVRATAIVLTLYIIYMVGFFATSGELTYEVWIGFFASAFTKVF
+TLLALFSILIHAWIGMWQVLTDYVKPLALRLMLQLVIVVALVVYVIYGFVVVWGV

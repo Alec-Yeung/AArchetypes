@@ -1,0 +1,3 @@
+>ath:ArthCp005 K02712 photosystem II PsbK protein | (RefSeq) psbK; photosystem II protein K (A)
+MLNIFNLICIFFNSTLFSSTFLVAKLPEAYAFLNPIVDVMPVIPLFFLLLAFVWQAAVSF
+R

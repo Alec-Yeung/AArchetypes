@@ -1,0 +1,4 @@
+>cel:CELE_Y39A1A.11 K13370 17beta-estradiol 17-dehydrogenase / 3alpha(17beta)-hydroxysteroid dehydrogenase (NAD+) / 3-oxoacyl-[acyl-carrier protein] reductase alpha subunit [EC:1.1.1.62 1.1.1.239] | (RefSeq) dhs-11; Estradiol 17-beta-dehydrogenase 8-like (A)
+MSQNQWQDVMNVNLNSVFLMSQMIARESVAAGSPLSIVNVSSIVGKIGNFGQTNYAATKS
+GVIGFTKSAARELATKNIRVNAVLPGFIRTPMTEAMPPKVLDAMVSMVPQRRLGETEEIA
+NAVLFLASDMSSYVTGTTLEVTGGLGM

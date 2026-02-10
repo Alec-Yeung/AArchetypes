@@ -1,0 +1,2 @@
+>ptr:736774 K02130 F-type H+-transporting ATPase subunit f | (RefSeq) ATP5MF; ATP synthase subunit f, mitochondrial isoform X2 (A)
+MASVVPVKDKKLLEVKLGELPSWILMRDFSPSGIFGAFQREHERLRKYH

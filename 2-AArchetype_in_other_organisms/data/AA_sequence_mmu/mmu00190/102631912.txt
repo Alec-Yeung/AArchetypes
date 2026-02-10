@@ -1,0 +1,2 @@
+>mmu:102631912 K03957 NADH dehydrogenase (ubiquinone) 1 beta subcomplex subunit 1 | (RefSeq) Ndufb1, 100040297, CI-MNLL, Gm2695, Ndufb1-ps; NADH:ubiquinone oxidoreductase subunit B1 (A)
+MTLFQLLREHWVHILVPAGFVFGCYLDRKDDEKLTAFRNKSMLFQRELRPNEEVTWK

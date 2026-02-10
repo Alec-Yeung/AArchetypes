@@ -1,0 +1,2 @@
+>cel:CELE_ZC262.5 K02135 F-type H+-transporting ATPase subunit epsilon | (RefSeq) ZC262.5; Putative ATP synthase subunit epsilon, mitochondrial (A)
+MVAWRAAGLNYVRYSQIAAQVVRQCTKGGANVKKPQATLKTTAWENGKMVSKSQ

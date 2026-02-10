@@ -1,0 +1,3 @@
+>dme:Dmel_CG3621 K03951 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 7 | (RefSeq) ND-B14.5A; NADH dehydrogenase (ubiquinone) B14.5 A subunit, isoform B (A)
+MSALRRDVSPLIQRIRAFLLGREHNLALRFEDGLADRTQPQPEIPDGPSHLLSANYYCQR
+DGRREVLPPIDLVEQQKQLAAEGEAAKAPSSKLPTPGKVYAWD

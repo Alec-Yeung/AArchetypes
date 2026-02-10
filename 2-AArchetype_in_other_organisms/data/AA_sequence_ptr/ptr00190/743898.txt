@@ -1,0 +1,3 @@
+>ptr:743898 K00417 ubiquinol-cytochrome c reductase subunit 7 | (RefSeq) cytochrome b-c1 complex subunit 7-like (A)
+MRDDTIYEDEDIKEAIRRRPENLYNDRMCHIKSALDLTMKHQILPKEQWTKYEEENFYLE
+LYLQEVTRERKEREEWAMK

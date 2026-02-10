@@ -1,0 +1,3 @@
+>ath:AT3G52730 K00419 ubiquinol-cytochrome c reductase subunit 9 | (RefSeq) ubiquinol-cytochrome C reductase UQCRX/QCR9-like family protein (A)
+MEYAARRNQKGAFEGFYKLIMRRNSVYVTFIIAGAFFGERAVDYGVHKLWERNNVGKRYE
+DISVLGQRPVEE

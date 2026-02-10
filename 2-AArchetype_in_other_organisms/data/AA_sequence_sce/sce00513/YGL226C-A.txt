@@ -1,0 +1,3 @@
+>sce:YGL226C-A K12691 dolichyl-diphosphooligosaccharide---protein glycosyltransferase subunit 5 | (RefSeq) OST5; dolichyl-diphosphooligosaccharide--protein glycotransferase subunit (A)
+MTYEQLYKEFHSSKSFQPFIHLDTQPKFAICGLIVTLAVLSSALFAVGSKSSYIKKLFFY
+TILSVIGSLFAGLTTVFASNSFGVYV

@@ -1,0 +1,2 @@
+>cel:CELE_Y66H1A.2 K00721 dolichol-phosphate mannosyltransferase [EC:2.4.1.83] | (RefSeq) dpm-1; Dolichol-phosphate mannosyltransferase subunit 1 (A)
+MEMMFRAKKSGYRIGEVPISFVDRFFGESKLGSQEIVDYAKGLLYLFAFVW

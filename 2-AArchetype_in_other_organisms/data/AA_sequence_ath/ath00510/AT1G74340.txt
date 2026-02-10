@@ -1,0 +1,3 @@
+>ath:AT1G74340 K09658 dolichol phosphate-mannose biosynthesis regulatory protein | (RefSeq) DPMS2; dolichol phosphate-mannose biosynthesis regulatory protein-like protein (A)
+MELADRAVGLLLSSISLSIFTYYTFWVIILPFVDSDHFIHKYFLPQDYAILVPVFAGIAL
+LSLISVFIGMVMLKSKKKKA

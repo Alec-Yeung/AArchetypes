@@ -1,0 +1,3 @@
+>cel:CELE_F01G4.2 K08683 3-hydroxyacyl-CoA dehydrogenase / 3-hydroxy-2-methylbutyryl-CoA dehydrogenase [EC:1.1.1.35 1.1.1.178] | (RefSeq) ard-1; 3-hydroxyacyl-CoA dehydrogenase (A)
+MTLPLARDFAGDGIRFNTIAPGLMDTPLLSSLPEKVKSFLAQLIPNPSRLGHPHEYGALV
+QHIIENQYLNGETIRFDGALRMPA

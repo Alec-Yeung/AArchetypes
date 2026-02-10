@@ -1,0 +1,3 @@
+>ath:AT1G15120 K00416 ubiquinol-cytochrome c reductase subunit 6 | (RefSeq) Ubiquinol-cytochrome C reductase hinge protein (A)
+MADDEVVDPKKYLEESCKPKCVKPLLEYQACVKRIQGDDSGHKHCTGQYFDYWQCIDKCV
+APKLFAKLK

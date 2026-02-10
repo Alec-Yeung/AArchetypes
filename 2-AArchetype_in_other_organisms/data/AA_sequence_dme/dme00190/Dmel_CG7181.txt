@@ -1,0 +1,3 @@
+>dme:Dmel_CG7181 K02273 cytochrome c oxidase subunit 8 | (RefSeq) COX8; cytochrome c oxidase subunit 8, isoform B (A)
+MFQNSAARLLVPAMRSAMQSRCQSVVSGPPTQRISTAEKVILGGGMCAASLFIPAWVLYH
+IRDYKGDK

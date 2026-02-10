@@ -1,0 +1,3 @@
+>mmu:17991 K03946 NADH dehydrogenase (ubiquinone) 1 alpha subcomplex subunit 2 | (RefSeq) Ndufa2, B8, C1-B8, CI-B8; NADH:ubiquinone oxidoreductase subunit A2 (A)
+MAAAAASRAVGAKLGLREIRVHLCQRSPGSQGVRDFIVQRYVELKKAHPNLPILIRECSE
+VQPKLWARYAFGQEKTVSLNNLSADEVTRAMQNVLSGKA
