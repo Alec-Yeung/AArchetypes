@@ -27,7 +27,7 @@ plot([0 3],[1 1],':','Color',[0.5 0.5 0.5]);
 xlim([0.2 2.8]);
 
 %% Read and visualize real proteomics data
-a_data_table = readtable("Ratio of IDR-associated AAs.xlsx");
+a_data_table = readtable(fullfile("data", "Ratio of IDR-associated AAs.xlsx"));
 a_data_human = a_data_table{ismember(a_data_table.group,'Homo sapiens'),"value"};
 a_data_yeast = a_data_table{ismember(a_data_table.group,'Saccharomyces cerevisiae'),"value"};
 figure;
